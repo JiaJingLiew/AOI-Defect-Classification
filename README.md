@@ -16,7 +16,3 @@ An end‑to‑end **Automated Optical Inspection (AOI)** system that detects and
 - 🧠 **Machine Learning** – Trains a **Random Forest** classifier (Scikit‑learn) with model persistence (joblib).
 - 🖥️ **Web Dashboard** – Interactive Streamlit app: upload images, visualize detected defects with bounding boxes, view feature tables, and export results as CSV.
 - ⚡ **Fast & Lightweight** – Processes a pair of images in under 5 seconds.
-
----
-
-## 🏗️ System Architecture
